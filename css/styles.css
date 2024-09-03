@@ -44,3 +44,26 @@ a {
         letter-spacing: 0.02em;
         color: #434455;
 }
+.section-title {
+    background: #2e2f42;
+}
+.page-page {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
+}
+.button:hover,
+.button:focus {
+    background-color: #404bbf;
+}
