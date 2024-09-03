@@ -96,3 +96,5 @@ color: #fff;
 .photo-item {
     background-color: #FFFFFF
 }
+.list-photo {
+   text-transform: capitalize;}
