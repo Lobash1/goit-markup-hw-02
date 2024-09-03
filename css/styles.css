@@ -22,32 +22,32 @@ a {
 .header-logo .logo-part {
     color: #2e2f42;
 }
-.nav-link {
+.nav-links {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.nav-link:hover, 
-.nav-link:focus,
-.contacts-link:hover,
-.contacts-link:focus {
+.nav-links:hover, 
+.nav-links:focus,
+.contacts-links:hover,
+.contacts-links:focus {
     color: #404bbf;
 }
 .contacts {
     font-style: normal;
 }
-.contacts-link {
+.contacts-links {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.section-title {
+.section-page {
     background-color: #2e2f42;
 }
-.page-page {
+.page-title {
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
@@ -72,6 +72,7 @@ color: #fff;
 
 }
 .section-main {
+    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
